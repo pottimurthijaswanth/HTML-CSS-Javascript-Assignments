@@ -1,0 +1,10 @@
+.q6 th{
+    background-color:darkgreen;
+    color:white
+}
+.q6 td,
+.q6 table {
+   border-style: solid;
+   border-color: darkgreen;
+   
+}

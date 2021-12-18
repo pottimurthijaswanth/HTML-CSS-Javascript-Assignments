@@ -1,0 +1,12 @@
+.q4{
+    background-color:skyblue;
+}
+
+.q4 a:link{
+    color: blue;
+}
+
+/*visited link*/
+.q4 a:visited{
+    color:red;
+}
